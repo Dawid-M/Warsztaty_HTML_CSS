@@ -1,0 +1,185 @@
+.backgr_prices {
+  background-color: #E7E8E6;
+}
+
+.head_prices {
+  margin-top: 20px;
+}
+
+.green_stripe3 {
+  background-color: rgba(14, 236, 151, 1);
+  height:10px;
+  width:210px;
+}
+
+.offer {
+  position: relative;
+  background-color: #F4F5F2;
+  margin-top: 80px;
+  width:330px;
+  height: 450px;
+  border: 2px solid #c9cac9;
+  display: inline-block;
+  margin-bottom: 60px;
+}
+
+.box2 {
+  margin-left: 100px;
+  background-color: rgba(14, 236, 151, 1);
+  border: 2px solid rgba(14, 236, 151, 1);
+
+}
+
+.box3 {
+  float:right;
+}
+
+.offer_circle1 {
+  position: absolute;
+  background-color: #F4F5F2;
+  border: 2px solid #c9cac9;
+  width:50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 135px;
+  margin-top: -40px;
+}
+
+.offer_circle2 {
+  position: absolute;
+  background-color: #c9cac9;
+  border: 2px solid #F4F5F2;
+  width:25px;
+  height: 25px;
+  border-radius: 50%;
+  margin-left:148px;
+  margin-top: -28px;
+}
+
+#circle1_clr {
+  background-color: rgba(14, 236, 151, 1);
+  border: 2px solid rgba(14, 236, 151, 1);
+}
+
+#circle2_clr {
+  background-color: #F4F5F2;
+  border: 2px solid rgba(14, 236, 151, 1);
+}
+
+.offer_head {
+  text-transform: uppercase;
+  color: rgba(14, 236, 151, 1);
+  text-align: center;
+  margin-top: 20px;
+}
+
+#offer_head_style {
+  color:#F4F5F2;
+}
+
+.offer_circle3 {
+  width:100px;
+  height: 100px;
+  background-color: white;
+  border: 2px solid #c9cac9;
+  border-radius: 50%;
+  margin:0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.circle_amt {
+  color:#c9cac9;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: -40px;
+}
+
+.amt_dwn {
+    color: #c9cac9;
+    font-size: 30px;
+}
+
+.amt_up {
+  font-size: 10px;
+}
+
+.curr_mth {
+  font-size: 12px;
+  color: #c9cac9;
+}
+
+.goods_deliv_stripe {
+  color: grey;
+  width:330px;
+  background-color: #c9cac9;
+  text-align: center;
+  font-size: 18px;
+  padding:10px 0 10px 0;
+}
+
+.service_stripe {
+  color: grey;
+  width:330px;
+  background-color: #E7E8E6;
+  text-align: center;
+  font-size: 18px;
+  padding:10px 0 10px 0;
+}
+
+/*.join_bkg {
+  position: relative;
+  background-color: white;
+  height: 177px;
+}*/
+
+.join_button {
+  /*position: absolute;*/
+  text-transform: uppercase;
+  color: white;
+  width:100px;
+  border-radius: 5px;
+  background-color: rgba(14, 236, 151, 1);
+  text-align: center;
+  padding:5px 10px 5px 10px;
+  margin: 0 auto;
+  margin-top: 130px;
+}
+
+#goods_bckg {
+  background-color: white;
+}
+
+.guaranty_stripe {
+  color: grey;
+  width:330px;
+  background-color: white;
+  text-align: center;
+  font-size: 18px;
+  padding:10px 0 10px 0;
+}
+
+#join_button_offer2 {
+  background-color: white;
+  color: rgba(14, 236, 151, 1);
+  margin-top: 90px;
+}
+
+#guaranty_stripe_id {
+  background-color: #c9cac9;
+}
+
+.advice_stripe {
+  color: grey;
+  width:330px;
+  background-color: #E7E8E6;
+  text-align: center;
+  font-size: 18px;
+  padding:10px 0 10px 0;
+}
+
+#join_button_offer3 {
+  margin-top: 50px;
+}

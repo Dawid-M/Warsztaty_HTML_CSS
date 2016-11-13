@@ -1,0 +1,23 @@
+.text_left_foot {
+  color:grey;
+  display: inline;
+}
+
+.text_right_foot {
+  color:grey;
+  text-transform: uppercase;
+  display: inline;
+  float: right;
+  margin-top: 100px;
+}
+
+#text_right_foot_style {
+  color:grey;
+  font-weight: bold;
+}
+
+.footer_logos {
+  display: inline-block;
+  margin-top: 80px;
+  margin-left: 415px;
+}

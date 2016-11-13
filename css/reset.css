@@ -1,0 +1,11 @@
+* {
+padding: 0;
+margin: 0;
+}
+
+/*.container {*/
+  /*position: relative; /* Do modelu relative-absolute */
+  /*width: 600px; /* Na sztywno ustawiamy szerokość strony */
+  /*margin: 0 auto; /* Centrujemy stronę w przeglądarce */
+  /*padding: 10px; /* Odstępy poprawiające wygląd i czytelność strony */
+/*}*/

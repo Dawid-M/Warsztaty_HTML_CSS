@@ -1,0 +1,66 @@
+.form1 {
+  width: 720px;
+  display: inline-block;
+}
+
+.form2 {
+  width: 465px;
+  height: 464px;
+  display: inline-block;
+  position: absolute;
+  margin-top: 53px;
+}
+
+input {
+  width: 700px;
+  margin-top:30px;
+  padding-left: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 18px;
+  border-color: rgba(14, 236, 151, 1);
+}
+
+#message {
+  font-family: 'Roboto', sans-serif;
+  margin-top:30px;
+  font-size: 18px;
+  height:200px;
+  width: 700px;
+  padding-top: 20px;
+}
+
+#chair_red {
+  float: left;
+  margin-left: 50px;
+}
+
+input[type=checkbox] {
+  float: left;
+  width:50px;
+  height: 50px;
+  margin-left: -270px;
+  margin-top: 250px;
+}
+
+.agree_text {
+  color: grey;
+  width:350px;
+  display: inline;
+  font-size: 18px;
+  float: right;
+  margin-top: 40px;
+}
+
+.button_send_agree {
+  position: absolute;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  text-transform: uppercase;
+  font-size: 20px;
+  background-color: rgba(14, 236, 151, 1);
+  padding:5px 135px 5px 135px;
+  margin-top: 425px;
+  margin-left:40px;
+}
