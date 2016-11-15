@@ -25,9 +25,12 @@ input {
   font-family: 'Roboto', sans-serif;
   margin-top:30px;
   font-size: 18px;
-  height:200px;
+  height:214px;
   width: 700px;
   padding-top: 20px;
+  padding-left: 5px;
+  border:2px solid rgba(14, 236, 151, 1);
+  resize:none;
 }
 
 #chair_red {
@@ -35,10 +38,18 @@ input {
   margin-left: 50px;
 }
 
-input[type=checkbox] {
+/* do wersji z checkboxem*/
+/*input[type=checkbox] {
   float: left;
   width:50px;
   height: 50px;
+  margin-left: -270px;
+  margin-top: 250px;
+}*/
+
+/*wersja z obrazkiem "form_ok" zamiast checkboxa*/
+#form_ok {
+  border:1px solid rgba(14, 236, 151, 1);
   margin-left: -270px;
   margin-top: 250px;
 }
@@ -58,9 +69,10 @@ input[type=checkbox] {
   border-radius: 5px;
   color: white;
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 30px;
+  font-weight: bold;
   background-color: rgba(14, 236, 151, 1);
-  padding:5px 135px 5px 135px;
-  margin-top: 425px;
+  padding:20px 135px 20px 135px;
+  margin-top: 87px;
   margin-left:40px;
 }

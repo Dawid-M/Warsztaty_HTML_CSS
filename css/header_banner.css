@@ -58,6 +58,7 @@ li {
 .sub_menu {
   display: none;
   position: absolute;
+  margin-left: -40px;
 
 }
 
@@ -101,7 +102,7 @@ li {
 	border-color: rgba(0, 0, 0, 0);
 	border-bottom-color: #000000;
 	border-width: 20px;
-	margin-left: -20px;
+	margin-left: -22px;
 }
 
 .backgr {
@@ -171,4 +172,5 @@ h2 {
   background-color: rgba(14, 236, 151, 1);
   border-radius: 5px;
   margin:0 auto;
+  padding:10px;
 }

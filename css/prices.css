@@ -3,7 +3,8 @@
 }
 
 .head_prices {
-  margin-top: 20px;
+  /*margin-top: 20px;*/
+  padding-top: 20px;
 }
 
 .green_stripe3 {
@@ -181,5 +182,5 @@
 }
 
 #join_button_offer3 {
-  margin-top: 50px;
+  margin-top: 47px;
 }
